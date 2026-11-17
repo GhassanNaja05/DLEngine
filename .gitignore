@@ -16,6 +16,10 @@ External/
 /GITHUB_READINESS_ASSESSMENT.md
 /UI.txt
 
+# Original gameplay captures (the optimized README GIF is tracked)
+/*.mov
+/*.MOV
+
 # Keep only the two public demos
 /Components/Tests/*
 !/Components/Tests/WallJump/

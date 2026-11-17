@@ -2,6 +2,8 @@
 
 A personal 2D game engine written in **C++20**, with a component-based scene hierarchy and custom physics. [Raylib](https://www.raylib.com/) handles windowing, drawing, input, and audio.
 
+![WallJump gameplay demonstrating movement, wall jumps, and climbing](docs/media/walljump.gif)
+
 ## Features
 
 - Game objects and components with parent–child transforms and lifecycle callbacks.
