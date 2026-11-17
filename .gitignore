@@ -1,0 +1,22 @@
+# Local tools and generated output
+.DS_Store
+.idea/
+.vscode/
+cmake-build-*/
+build*/
+releases/
+*.zip
+
+# Local media and reference material
+Assets/
+External/
+*.pdf
+
+# Local notes
+/GITHUB_READINESS_ASSESSMENT.md
+/UI.txt
+
+# Keep only the two public demos
+/Components/Tests/*
+!/Components/Tests/WallJump/
+!/Components/Tests/Flap Bird/
